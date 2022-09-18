@@ -12,6 +12,7 @@
 		DE3B206828D5CD77005B1F98 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE3B206728D5CD77005B1F98 /* Assets.xcassets */; };
 		DE3B206B28D5CD77005B1F98 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE3B206A28D5CD77005B1F98 /* Preview Assets.xcassets */; };
 		DE3B207228D5D4CB005B1F98 /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE3B207128D5D4CB005B1F98 /* TextBootcamp.swift */; };
+		DE7748E228D693A600C86354 /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE7748E128D693A600C86354 /* ShapesBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		DE3B206728D5CD77005B1F98 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DE3B206A28D5CD77005B1F98 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		DE3B207128D5D4CB005B1F98 /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
+		DE7748E128D693A600C86354 /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				DE3B206328D5CD75005B1F98 /* SwiftUI_BootcampApp.swift */,
 				DE3B206528D5CD75005B1F98 /* ContentView.swift */,
 				DE3B207128D5D4CB005B1F98 /* TextBootcamp.swift */,
+				DE7748E128D693A600C86354 /* ShapesBootcamp.swift */,
 				DE3B206728D5CD77005B1F98 /* Assets.xcassets */,
 				DE3B206928D5CD77005B1F98 /* Preview Content */,
 			);
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DE7748E228D693A600C86354 /* ShapesBootcamp.swift in Sources */,
 				DE3B206628D5CD75005B1F98 /* ContentView.swift in Sources */,
 				DE3B207228D5D4CB005B1F98 /* TextBootcamp.swift in Sources */,
 				DE3B206428D5CD75005B1F98 /* SwiftUI_BootcampApp.swift in Sources */,
