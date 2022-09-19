@@ -14,6 +14,7 @@
 		DE3B207228D5D4CB005B1F98 /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE3B207128D5D4CB005B1F98 /* TextBootcamp.swift */; };
 		DE7748E228D693A600C86354 /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE7748E128D693A600C86354 /* ShapesBootcamp.swift */; };
 		DEB1857828D7F6B000405D02 /* ColorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEB1857728D7F6B000405D02 /* ColorsBootcamp.swift */; };
+		DEB1857A28D7FEBA00405D02 /* Gradients.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEB1857928D7FEBA00405D02 /* Gradients.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		DE3B207128D5D4CB005B1F98 /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
 		DE7748E128D693A600C86354 /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
 		DEB1857728D7F6B000405D02 /* ColorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootcamp.swift; sourceTree = "<group>"; };
+		DEB1857928D7FEBA00405D02 /* Gradients.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gradients.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				DE3B207128D5D4CB005B1F98 /* TextBootcamp.swift */,
 				DE7748E128D693A600C86354 /* ShapesBootcamp.swift */,
 				DEB1857728D7F6B000405D02 /* ColorsBootcamp.swift */,
+				DEB1857928D7FEBA00405D02 /* Gradients.swift */,
 				DE3B206728D5CD77005B1F98 /* Assets.xcassets */,
 				DE3B206928D5CD77005B1F98 /* Preview Content */,
 			);
@@ -151,6 +154,7 @@
 				DE3B206628D5CD75005B1F98 /* ContentView.swift in Sources */,
 				DE3B207228D5D4CB005B1F98 /* TextBootcamp.swift in Sources */,
 				DE3B206428D5CD75005B1F98 /* SwiftUI_BootcampApp.swift in Sources */,
+				DEB1857A28D7FEBA00405D02 /* Gradients.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
